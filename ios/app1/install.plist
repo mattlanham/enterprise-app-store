@@ -20,7 +20,7 @@
 
                         <!-- required.  the URL of the file to download. -->
                         <key>url</key>
-                        <string>http://www.example.com/apps/foo.ipa</string>
+                        <string>http://www.example.com/ios/app1/yourapp.ipa</string>
                     </dict>
 
                     <!-- display-image: the icon to display during download. -->
@@ -34,7 +34,7 @@
                         <true/>
 
                         <key>url</key>
-                        <string>http://www.example.com/image.57×57.png</string>
+                        <string>http://www.example.com/ios/app1/57x57.png</string>
                     </dict>
 
                     <!-- full-size-image: the large 512×512 icon used by iTunes. -->
@@ -47,7 +47,7 @@
                         <true/>
 
                         <key>url</key>
-                        <string>http://www.example.com/image.512×512.jpg</string>
+                        <string>http://www.example.com/ios/app1/512×512.jpg</string>
                     </dict>
                 </array>
 
